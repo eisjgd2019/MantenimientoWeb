@@ -1,0 +1,10 @@
+com\mantenimiento\business\BitacoraEventosBean.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+com\mantenimiento\managedBean\IndexManagedBean.class
+com\mantenimiento\dto\BitacoraDTO.class
+com\mantenimiento\dao\BitacoraDaoImpl.class
+com\mantenimiento\business\BitacoraEventosLocal.class
+com\mantenimiento\dao\BitacoraDao.class
+com\mantenimiento\servicio\rest\BitacoraRS.class
+com\mantenimiento\entity\BitacoraEventos.class
+com\mantenimiento\entity\BitacoraEventos_.class
